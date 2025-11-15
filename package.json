@@ -11,6 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
+  "homepage": "https://haitham-maher.github.io/my-portfolio/",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@radix-ui/react-label": "^2.1.7",
